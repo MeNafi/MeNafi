@@ -28,4 +28,4 @@ I'm a software engineering student at Daffodil International University. I'm pas
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menafi&show_icons=true&locale=en" alt="menafi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menafi&" alt="menafi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeNafi&" alt="menafi" /></p>
