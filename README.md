@@ -1,6 +1,6 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHAGbx-jmsdpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736157831182?e=1741824000&v=beta&t=DGTTQ1S0j2krKcaM6_QGRDCmy7QaUTzRCJsx30Zpi9Y)
 
-### Hi there 👋, I'm Nayeef sarker Nafi
+### Hey 👋, I'm Nayeef sarker Nafi
 #### Web Developer
 
 I'm a software engineering student at Daffodil International University. I'm passionate about building innovative projects that solve real-world problems. Whether it's diving into new technologies or optimizing existing systems. Check out my work, and let's collaborate!
