@@ -5,7 +5,7 @@
 
 I'm a software engineering student at Daffodil International University. I'm passionate about building innovative projects that solve real-world problems. Whether it's diving into new technologies or optimizing existing systems. Check out my work, and let's collaborate!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat" alt="menafi" /> </p>
+<p align="left"> <https://media.licdn.com/dms/image/v2/D5616AQEsRQWYd9YVZw/profile-displaybackgroundimage-shrink_350_1400/B56ZUtXam1GsAc-/0/1740222868705?e=1746057600&v=beta&t=mSlKGCghInYLBy9G6br0azKFR9erHpaRtJSXCwx1ync</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menafi" alt="menafi" /></a> </p>
 
