@@ -1,4 +1,4 @@
-![Linkdin Profile Link] (https://media.licdn.com/dms/image/v2/D5616AQEsRQWYd9YVZw/profile-displaybackgroundimage-shrink_350_1400/B56ZUtXam1GsAc-/0/1740222868705?e=1746057600&v=beta&t=mSlKGCghInYLBy9G6br0azKFR9erHpaRtJSXCwx1ync)
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEsRQWYd9YVZw/profile-displaybackgroundimage-shrink_350_1400/B56ZUtXam1GsAc-/0/1740222868705?e=1746057600&v=beta&t=mSlKGCghInYLBy9G6br0azKFR9erHpaRtJSXCwx1ync">
 <h1 align="center">Hey, I'm Nayeef sarker Nafi</h1>
 <h3 align="center">Front-End Developer</h3>
 
