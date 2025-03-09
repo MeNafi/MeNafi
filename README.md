@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I'm Nayeef sarker Nafi</h1>
 <h3 align="center">Front-End Developer</h3>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEsRQWYd9YVZw/profile-displaybackgroundimage-shrink_350_1400/B56ZUtXam1GsAc-/0/1740222868705?e=1746057600&v=beta&t=mSlKGCghInYLBy9G6br0azKFR9erHpaRtJSXCwx1ync">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFKbq_iIL8QxA/profile-displaybackgroundimage-shrink_350_1400/B56ZV7jGHEGUAY-/0/1741534562402?e=1747267200&v=beta&t=NOEH6lKv46j5g2SlzwNPhquwv9uoBrEcRFSPh8Z_MJo">
 <h4 align="left">I'm a software engineering student at Daffodil International University. I'm passionate about building innovative projects that solve real-world problems. Whether it's diving into new technologies or optimizing existing systems. Check out my work, and let's collaborate!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat" alt="menafi" /> </p>
