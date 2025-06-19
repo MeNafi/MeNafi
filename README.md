@@ -1,20 +1,34 @@
-<h1 align="center">Hey👋, I'm Nayeef sarker Nafi</h1>
-<h3 align="center">Front-End Developer</h3>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFKbq_iIL8QxA/profile-displaybackgroundimage-shrink_350_1400/B56ZV7jGHEGUAY-/0/1741534562402?e=1754524800&v=beta&t=PKr59XIH84e-Dbr9gM3kh2pZ3ahUubuQOEc2u4cIXqY">
-<h4 align="left">I'm a software engineering student at Daffodil International University. I'm passionate about building innovative projects that solve real-world problems. Whether it's diving into new technologies or optimizing existing systems. Check out my work, and let's collaborate!</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat" alt="menafi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **js, mongo DB**
-
-- Lnkedin **https://www.linkedin.com/in/nayeefsarkernafi/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nayeef sarker nafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayeef sarker nafi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFKbq_iIL8QxA/profile-displaybackgroundimage-shrink_350_1400/B56ZV7jGHEGUAY-/0/1741534562402?e=1754524800&v=beta&t=PKr59XIH84e-Dbr9gM3kh2pZ3ahUubuQOEc2u4cIXqY" alt="Nayeef Sarker Nafi Banner" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<h2 align="center">Welcome</h2>
+
+<h3 align="center">
+  I'm <strong>Nayeef Sarker Nafi</strong>, a passionate Front-End Developer.
+</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=800&lines=I+code+efficient+and+elegant+solutions+for+the+web" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="300" alt="Night mode coding GIF" />
+</p>
+
+---
+
+### 👨‍💻 About Me:
+
+- 🌱 Currently learning **JavaScript MongoDB React.js**
+- 💬 Ask me about **React**
+- 🧠 Passionate about building user-friendly web apps
+- 🔁 Always eager to learn new technologies and improve
+- 📧 Reach me at: [nayeefsarkernafi@gmail.com](mailto:nayeefsarkernafi@gmail.com)
 
 
 # 💻 Tech Stack:
