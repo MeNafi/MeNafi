@@ -13,7 +13,7 @@
 </h3>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=800&lines=I+code+efficient+and+elegant+solutions+for+the+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=800&lines=I+develop+modern,+reliable+web+applications"alt="Typing SVG" />
 </h3>
 
 <p align="center">
