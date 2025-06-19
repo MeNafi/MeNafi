@@ -46,7 +46,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -72,7 +72,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MeNafi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MeNafi&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNafi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -80,10 +80,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MeNafi&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Quote
+## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MeNafi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
