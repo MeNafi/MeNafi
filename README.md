@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h2 align="center">Welcome</h2>
+<h2 align="center">Hey👋,Welcome</h2>
 
 <h3 align="center">
   I'm <strong>Nayeef Sarker Nafi</strong>, a passionate Front-End Developer.
@@ -30,8 +30,7 @@
 - 🔁 Always eager to learn new technologies and improve
 
 
-## 🔗 Let's Connect
-
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nayeefsarkernafi/" target="_blank">
