@@ -30,7 +30,8 @@
 - 🔁 Always eager to learn new technologies and improve
 
 
-### 🔗 Let's Connect
+## 🔗 Let's Connect
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nayeefsarkernafi/" target="_blank">
@@ -43,6 +44,7 @@
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?logo=facebook&style=for-the-badge" />
   </a>
 </p>
+
 
 # 💻 Tech Stack:
 
