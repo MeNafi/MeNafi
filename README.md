@@ -28,7 +28,21 @@
 - 💬 Ask me about **React**
 - 🧠 Passionate about building user-friendly web apps
 - 🔁 Always eager to learn new technologies and improve
-- 📧 Reach me at: [nayeefsarkernafi@gmail.com](mailto:nayeefsarkernafi@gmail.com)
+
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nayeefsarkernafi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:nayeefsarkernafi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://facebook.com/nayeef.sarker.nafi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?logo=facebook&style=for-the-badge" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
