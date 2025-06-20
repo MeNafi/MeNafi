@@ -27,7 +27,7 @@
 - 🌱 Currently learning **JavaScript, MongoDB, React.js**
 - 💬 Ask me about **React**
 - 🧠 Passionate about building user-friendly web apps
-- 🔁 Always eager to learn new technologies and improve
+- 🔁 I'm always learning new tools and ways to get better
 
 
 ## 📬 Let's Connect
