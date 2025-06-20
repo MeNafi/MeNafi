@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h2 align="center">Hey👋,Welcome</h2>
+<h2 align="center">Hey👋,Welcome to my github profile </h2>
 
 <h3 align="center">
   I'm <strong>Nayeef Sarker Nafi</strong>, a passionate Front-End Developer.
