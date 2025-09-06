@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNm5xZmh4a3A0bzM1N3c4cjV4MzRreDNud2VobDNwZ2djMWttd3VoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Naruto GIF Small" width="90%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHU0dTRwOWt1bWcybjIxejRsamdyMTZreXc0cTE3b3oxdHg5ejZ1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BT7rnfg4tqBQ0LoLal/giphy.gif" alt="Anime GIF Banner" width="100%">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
