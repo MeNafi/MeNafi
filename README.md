@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="300" alt="Night mode coding GIF" />
+  <img src ="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydGY2NmgzY2s0YjUwemtpbjM3aTlheHgzazdmdjZkZ2VyM2Fqc2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width ="40%" alt="Night mode coding GIF" />
 </p>
 
 ---
