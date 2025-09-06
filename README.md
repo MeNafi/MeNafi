@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFKbq_iIL8QxA/profile-displaybackgroundimage-shrink_350_1400/B56ZV7jGHEGUAY-/0/1741534562402?e=1754524800&v=beta&t=PKr59XIH84e-Dbr9gM3kh2pZ3ahUubuQOEc2u4cIXqY" alt="Nayeef Sarker Nafi Banner" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNm5xZmh4a3A0bzM1N3c4cjV4MzRreDNud2VobDNwZ2djMWttd3VoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Naruto GIF Small" width="60%">
 </p>
 
 <p align="center">
