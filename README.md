@@ -5,13 +5,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat-square" 
        alt="Profile Views" 
-       width="170" height="50" />
+       width="165" height="50" />
 </p>
 
 <h2 align="center">Hey👋,Welcome</h2>
 
 <h3 align="center">
-  I'm <strong>Nayeef Sarker Nafi</strong>, a passionate Front-End Developer.
+  I'm <strong>Nayeef Sarker Nafi</strong>, a passionate Software Engineer. 
 </h3>
 
 <h3 align="center">
