@@ -10,9 +10,11 @@
 
 <h2 align="center">Hey👋,Welcome</h2>
 
-<h3 align="center">
-  I'm <strong>Nayeef Sarker Nafi</strong>, a passionate Software Engineer. Who loves building scalable solutions and exploring new technologies. I enjoy solving real-world problems with clean code, continuous learning, and creative thinking.
-</h3>
+<h4 align="left">
+  👨‍💻 I'm Nayeef Sarker Nafi, a passionate Software Engineer.I love building scalable solutions and exploring new<br><br> 
+  technologies. I enjoy solving real-world problems with clean code, continuous learning, and creative thinking.
+</h4>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
