@@ -11,7 +11,7 @@
 <h2 align="center">Hey👋,Welcome</h2>
 
 <h4 align="left">
-  👨‍💻 I'm Nayeef Sarker Nafi, a passionate Software Engineer.I love building scalable solutions and exploring new<br><br> 
+  👨‍💻 I'm Nayeef Sarker Nafi, a passionate Software Engineer.I love building scalable solutions and exploring new<br> 
   technologies. I enjoy solving real-world problems with clean code, continuous learning, and creative thinking.
 </h4>
 
