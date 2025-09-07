@@ -10,9 +10,9 @@
 
 <h2 align="center">Hey👋,Welcome</h2>
 
-<h3 align="left">
+<p align="left">
   👨‍💻 I'm Nayeef Sarker Nafi, a passionate Software Engineer. I enjoy solving real-world problems with clean code, continuous learning, and creative thinking.
-</h3>
+</p>
 
 
 <p align="center">
