@@ -15,9 +15,9 @@
 </h3>
 
 
-<h3 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
-</h3>
+</p>
 
 <p align="center">
   <img src ="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydGY2NmgzY2s0YjUwemtpbjM3aTlheHgzazdmdjZkZ2VyM2Fqc2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width ="40%" alt="Night mode coding GIF" />
