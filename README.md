@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat-square" 
        alt="Profile Views" 
-       width="165" height="50" />
+       width="160" height="45" />
 </p>
 
 <h2 align="center">Hey👋,Welcome</h2>
