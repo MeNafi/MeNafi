@@ -43,7 +43,7 @@
   <a href="mailto:nayeefsarkernafi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://facebook.com/nayeef.sarker.nafi" target="_blank">
+  <a href="https://m.me/nayeefsarkarnafi.05" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?logo=facebook&style=for-the-badge" />
   </a>
 </p>
