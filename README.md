@@ -92,6 +92,9 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MeNafi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=MeNafi&theme=tokyo-night)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MeNafi&icon=2&color=8)](https://visitcount.itsvg.in)
 
