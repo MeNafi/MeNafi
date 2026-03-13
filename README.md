@@ -86,6 +86,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MeNafi&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏆 GitHub Achievements
+
+<p align="left-center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90"/>
+</p>
+
+
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
