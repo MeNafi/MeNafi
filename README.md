@@ -28,20 +28,20 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
   
 ### 👨‍💻 About Me:
 
 - 🌱 Currently learning **Next.js (Frontend)** and **Go (Backend)**
-- ⚛️ Building **modern, responsive web applications**
-- 🧠 Passionate about building **user-friendly and scalable web applications**
-- 🎨 Focused on **modern frontend technologies, clean UI/UX, and scalable backend development**
-- 🤝 Open to **collaborating on interesting web development projects**
-- 🔁 Always exploring **new tools, frameworks, and best practices to improve my skills**
+- ⚛️ Building **modern responsive web apps**
+- 🧠 Focused on **user-friendly, scalable applications**
+- 🎨 Interested in **modern UI/UX and backend systems**
+- 🤝 Open to **web development collaboration**
+- 🔁 Exploring **new tools and best practices**
 
 </td>
 
-<td width="30%">
+<td width="40%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
