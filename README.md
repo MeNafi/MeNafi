@@ -25,7 +25,6 @@
 </p>
 
 ---
-<table>
 
 <table>
 <tr>
@@ -33,24 +32,20 @@
 
 <h3>👨‍💻 About Me:</h3>
 
-<div style="font-size:8px; line-height:1.6;">
-  <ul>
-    <li>🌱 Currently learning <b>Next.js (Frontend)</b> and <b>Go (Backend)</b></li>
-    <li>⚛️ Building <b>modern responsive web apps</b></li>
-    <li>🧠 Focused on <b>user-friendly, scalable applications</b></li>
-    <li>🎨 Interested in <b>modern UI/UX and backend systems</b></li>
-    <li>🤝 Open to <b>web development collaboration</b></li>
-    <li>🔁 Exploring <b>new tools and best practices</b></li>
-  </ul>
-</div>
+<ul style="font-size:10px; line-height:1.6;">
+  <li>🌱 Currently learning <b>Next.js (Frontend)</b> and <b>Go (Backend)</b></li>
+  <li>⚛️ Building <b>modern responsive web apps</b></li>
+  <li>🧠 Focused on <b>user-friendly, scalable applications</b></li>
+  <li>🎨 Interested in <b>modern UI/UX and backend systems</b></li>
+  <li>🤝 Open to <b>web development collaboration</b></li>
+  <li>🔁 Exploring <b>new tools and best practices</b></li>
+</ul>
 
 </td>
 
-<td width="40%" style="height:100%;">
+<td width="40%">
 
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
-     alt="Coding Boy GIF" 
-     style="width:100%; height:100%; object-fit:contain;"/>
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Coding Boy GIF"/>
 
 </td>
 </tr>
