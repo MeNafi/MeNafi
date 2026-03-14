@@ -26,13 +26,28 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+  
 ### 👨‍💻 About Me:
 
-- 🌱 Currently learning **JavaScript, MongoDB, React.js**
-- 💬 Ask me about **React**
-- 🧠 Passionate about building user-friendly web apps
-- 🔁 I'm always learning new tools and ways to get better
+- 🌱 Currently learning **Next.js (Frontend)** and **Go (Backend)**
+- ⚛️ Building **modern, responsive web applications**
+- 🧠 Passionate about building **user-friendly and scalable web applications**
+- 🎨 Focused on **modern frontend technologies, clean UI/UX, and scalable backend development**
+- 🤝 Open to **collaborating on interesting web development projects**
+- 🔁 Always exploring **new tools, frameworks, and best practices to improve my skills**
 
+</td>
+
+<td width="30%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ## 📬 Let's Connect
 
