@@ -29,9 +29,10 @@
 <table>
 <tr>
 <td width="60%">
+
 <h3>👨‍💻 About Me:</h3>
 
-<ul style="font-size:12px;">
+<ul style="font-size:10px; line-height:1.6;">
   <li>🌱 Currently learning <b>Next.js (Frontend)</b> and <b>Go (Backend)</b></li>
   <li>⚛️ Building <b>modern responsive web apps</b></li>
   <li>🧠 Focused on <b>user-friendly, scalable applications</b></li>
@@ -42,7 +43,7 @@
 
 </td>
 
-<td width="30%">
+<td width="40%">
 
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Coding Boy GIF"/>
 
