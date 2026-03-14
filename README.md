@@ -29,25 +29,27 @@
 <table>
 <tr>
 <td width="60%">
-  
-### 👨‍💻 About Me:
+<h3>👨‍💻 About Me:</h3>
 
-- 🌱 Currently learning **Next.js (Frontend)** and **Go (Backend)**
-- ⚛️ Building **modern responsive web apps**
-- 🧠 Focused on **user-friendly, scalable applications**
-- 🎨 Interested in **modern UI/UX and backend systems**
-- 🤝 Open to **web development collaboration**
-- 🔁 Exploring **new tools and best practices**
+<ul style="font-size:12px;">
+  <li>🌱 Currently learning <b>Next.js (Frontend)</b> and <b>Go (Backend)</b></li>
+  <li>⚛️ Building <b>modern responsive web apps</b></li>
+  <li>🧠 Focused on <b>user-friendly, scalable applications</b></li>
+  <li>🎨 Interested in <b>modern UI/UX and backend systems</b></li>
+  <li>🤝 Open to <b>web development collaboration</b></li>
+  <li>🔁 Exploring <b>new tools and best practices</b></li>
+</ul>
 
 </td>
 
-<td width="40%">
+<td width="30%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Coding Boy GIF"/>
 
 </td>
 </tr>
 </table>
+
 
 ## 📬 Let's Connect
 
