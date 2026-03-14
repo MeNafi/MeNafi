@@ -49,7 +49,6 @@
 </tr>
 </table>
 
-
 ## 📬 Let's Connect
 
 <p align="center">
