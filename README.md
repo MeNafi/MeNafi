@@ -37,7 +37,7 @@
   <li>⚛️ Building <b>modern responsive web apps</b></li>
   <li>🧠 Focused on <b>user-friendly, scalable applications</b></li>
   <li>🎨 Interested in <b>modern UI/UX and backend systems</b></li>
-  <li>🤝 Open to <b>web development collaboration</b></li>
+  <li>🤝 Open to <b>collaboration</b></li>
   <li>🔁 Exploring <b>new tools and best practices</b></li>
 </ul>
 
