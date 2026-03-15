@@ -8,7 +8,9 @@
        width="160" height="45" />
 </p>
 
-<h2 align="center">Hey👋,Welcome</h2>
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Rounded&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+👋,+Welcome" />
+</h2>
 
 <h3 align="left">
   👨‍💻 I'm Nayeef Sarker Nafi, a passionate Software Engineer. I'm passionate 
@@ -33,7 +35,7 @@
 <h3>👨‍💻 About Me:</h3>
 <small>
 <ul style="font-size:8px; line-height:1.6;">
-  <li>🌱 Currently learning <b>Next.js (Frontend)</b> and <b>Go (Backend)</b></li>
+  <li>🌱 Currently learning <b>Next.js and Go</b></li>
   <li>⚛️ Building <b>modern responsive web apps</b></li>
   <li>🧠 Focused on <b>user-friendly, scalable applications</b></li>
   <li>🎨 Interested in <b>modern UI/UX and backend systems</b></li>
