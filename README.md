@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Rounded&size=35&pause=2200&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+👋,+Welcome" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Rounded&size=33&pause=2200&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+👋,+Welcome" />
 </h2>
 
 <h3 align="left">
