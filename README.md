@@ -28,9 +28,9 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
-<h4>👨‍💻 About Me:</h4>
+<h3>👨‍💻 About Me:</h3>
 <small>
 <ul style="font-size:8px; line-height:1.6;">
   <li>🌱 Currently learning <b>Next.js (Frontend)</b> and <b>Go (Backend)</b></li>
