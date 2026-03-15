@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="70%">
 
 <h3>👨‍💻 About Me:</h3>
 <small>
@@ -43,7 +43,7 @@
 </small>
 </td>
 
-<td width="40%">
+<td width="90%">
 
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Coding Boy GIF"/>
 
