@@ -30,9 +30,9 @@
 <tr>
 <td width="60%">
 
-<h3>👨‍💻 About Me:</h3>
-
-<ul style="font-size:10px; line-height:1.6;">
+<h4>👨‍💻 About Me:</h4>
+<small>
+<ul style="font-size:8px; line-height:1.6;">
   <li>🌱 Currently learning <b>Next.js (Frontend)</b> and <b>Go (Backend)</b></li>
   <li>⚛️ Building <b>modern responsive web apps</b></li>
   <li>🧠 Focused on <b>user-friendly, scalable applications</b></li>
@@ -40,7 +40,7 @@
   <li>🤝 Open to <b>collaboration</b></li>
   <li>🔁 Exploring <b>new tools and best practices</b></li>
 </ul>
-
+</small>
 </td>
 
 <td width="40%">
