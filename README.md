@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Rounded&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+👋,+Welcome" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Rounded&size=35&pause=2200&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+👋,+Welcome" />
 </h2>
 
 <h3 align="left">
@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
 </p>
 
 <p align="center">
