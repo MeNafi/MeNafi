@@ -17,11 +17,9 @@
     <td>
       </b> I'm Nayeef Sarker Nafi, a Software Engineer focused on building scalable and efficient applications. 
   I work with clean, maintainable code and develop user-friendly interfaces with a strong understanding of UI/UX principles. 
-Focused on continuous improvement to deliver reliable, scalable, and high-quality software solutions.
-</h3>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
     </td>
   </tr>
 </table>
