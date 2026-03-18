@@ -19,13 +19,13 @@
   I work with clean, maintainable code and develop user-friendly interfaces with a strong understanding of UI/UX principles. 
     </td>
     <td>
-      <img src="https://github.blog/wp-content/uploads/2019/07/BlogHeaders_final_INSIGHTS_1200x630.png?w=1024" width="1200" />
+      <img src="https://github.blog/wp-content/uploads/2019/07/BlogHeaders_final_INSIGHTS_1200x630.png?w=1024" width="1000" />
     </td>
   </tr>
 </table>
 
-
-<p align="center mt-2">
+<br>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=26&pause=1200&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
 </p>
 
