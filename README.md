@@ -25,8 +25,8 @@
 </table>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1200&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
+<p align="center mt-2">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=25&pause=1200&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
 </p>
 
 <p align="center">
