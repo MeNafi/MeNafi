@@ -23,8 +23,8 @@
     </td>
   </tr>
 </table>
-
 <br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=26&pause=1200&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
 </p>
