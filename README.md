@@ -12,14 +12,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Rounded&size=33&pause=2200&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+👋,+Welcome" />
 </h2>
 
-<img align="right"  width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-<p align="left">
-  I'm Nayeef Sarker Nafi, a Software Engineer focused on building scalable and efficient applications. 
+<table>
+  <tr>
+    <td>
+      </b> I'm Nayeef Sarker Nafi, a Software Engineer focused on building scalable and efficient applications. 
   I work with clean, maintainable code and develop user-friendly interfaces with a strong understanding of UI/UX principles. 
-  I continuously improve my skills to deliver high-quality and reliable software solutions.
-</p>
- 
+Focused on continuous improvement to deliver reliable, scalable, and high-quality software solutions.
+</h3>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
