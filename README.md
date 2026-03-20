@@ -187,7 +187,17 @@
 ## 📈 Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeNafi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+
+<!-- Weave Animation Code -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+</p>
+
+<!-- it's maybe icon -->
+
 [![](https://visitcount.itsvg.in/api?id=MeNafi&icon=2&color=8)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
