@@ -185,7 +185,7 @@
 <!-- Contribution Graph part -->
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=MeNafi&theme=tokyo-night)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeNafi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MeNafi&icon=2&color=8)](https://visitcount.itsvg.in)
