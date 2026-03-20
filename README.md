@@ -66,7 +66,7 @@
   </a>
 </p>
 
->  I've recently updated my portfolio to better reflect my journey as a Front-End Developer. Beyond just writing code, I'm deeply focused on the user perspective ensuring that every interface is as user-friendly as it is functional. Check out my latest projects on Behance and Dribbble!
+>  I've recently updated my portfolio to better reflect my journey as a Front-End Developer. Beyond just writing code, I'm deeply focused on the user perspective ensuring that every interface is as user-friendly as it is functional.
 
 ---
 
