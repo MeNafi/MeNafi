@@ -55,6 +55,8 @@
 
 ## 🎨 UI/UX Design Portfolio
 
+> Explore my projects to see how I combine front-end development skills with a deep focus on user perspective and design principles.
+> 
 <p align="center">
   <a href="https://www.behance.net/NayeefsarkerNafi">
     <img src="https://img.shields.io/badge/Behance-Portfolio-0057ff?style=for-the-badge&logo=behance&logoColor=white" />
@@ -64,11 +66,9 @@
   </a>
 </p>
 
-> Explore my projects to see how I combine front-end development skills with a deep focus on user perspective and design principles.
+>  I've recently updated my portfolio to better reflect my journey as a Front-End Developer. Beyond just writing code, I'm deeply focused on the user perspective ensuring that every interface is as user-friendly as it is functional. Check out my latest projects on Behance and Dribbble!
 
 ---
-
-
 
 <!-- This is About Me part -->
 
@@ -97,6 +97,9 @@
 </tr>
 </table>
 
+
+<!-- Let's Connect part -->
+
 ## 📬 Let's Connect
 
 <p align="center">
@@ -111,6 +114,8 @@
   </a>
 </p>
 
+
+<!-- Tech Stack Part-->
 
 ## 💻 Tech Stack:
 
@@ -138,6 +143,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+<!-- GitHub Stats part -->
+
 ## 📊 GitHub Stats:
 
 <h3 align="left-center">🔥 GitHub Streak</h3>
@@ -146,9 +153,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MeNafi&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNafi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- GitHub Trophies part -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MeNafi&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
+
+<!-- GitHub Badges part -->
 
 ## 🎖️ GitHub Badges
 
@@ -160,11 +171,18 @@
 </p>
 
 
+<!-- Quote part -->
+
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!-- Top Contributed Repo part -->
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MeNafi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+
+
+<!-- Contribution Graph part -->
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MeNafi&theme=tokyo-night)
