@@ -61,6 +61,20 @@
 </table>
 
 
+## 🎨 UI/UX Design Portfolio
+
+<p align="center">
+  <a href="https://www.behance.net/NayeefsarkerNafi">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-0057ff?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/NayeefsarkerNafi">
+    <img src="https://img.shields.io/badge/Dribbble-Designs-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+</p>
+
+> Explore my projects to see how I combine front-end development skills with a deep focus on user perspective and design principles.
+
+
 ## 📬 Let's Connect
 
 <p align="center">
