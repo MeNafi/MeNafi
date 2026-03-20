@@ -1,6 +1,12 @@
+
+<!-- This is my GIF -->
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHU0dTRwOWt1bWcybjIxejRsamdyMTZreXc0cTE3b3oxdHg5ejZ1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BT7rnfg4tqBQ0LoLal/giphy.gif" alt="Anime GIF Banner" width="100%">
 </p>
+
+
+<!-- Profile View part -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menafi&label=Profile%20views&color=0e75b6&style=flat-square" 
@@ -8,9 +14,15 @@
        width="160" height="45" />
 </p>
 
+
+<!-- Hey welcome part -->
+
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Rounded&size=33&pause=2200&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+👋,+Welcome" />
 </h2>
+
+
+<!-- My Content -->
 
 <table>
   <tr>
@@ -25,15 +37,40 @@
 </table>
 <br>
 
+<!-- I develop part -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=26&pause=1200&center=true&width=800&lines=I+develop+modern,+reliable+Software"alt="Typing SVG" />
 </p>
+
+<!-- Right side GIF part -->
 
 <p align="center">
   <img src ="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydGY2NmgzY2s0YjUwemtpbjM3aTlheHgzazdmdjZkZ2VyM2Fqc2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width ="40%" alt="Night mode coding GIF" />
 </p>
 
 ---
+
+<!-- This is About Me part -->
+
+## 🎨 UI/UX Design Portfolio
+
+<p align="center">
+  <a href="https://www.behance.net/NayeefsarkerNafi">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-0057ff?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/NayeefsarkerNafi">
+    <img src="https://img.shields.io/badge/Dribbble-Designs-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+</p>
+
+> Explore my projects to see how I combine front-end development skills with a deep focus on user perspective and design principles.
+
+---
+
+
+
+<!-- This is About Me part -->
 
 <table>
 <tr>
@@ -59,21 +96,6 @@
 </td>
 </tr>
 </table>
-
-
-## 🎨 UI/UX Design Portfolio
-
-<p align="center">
-  <a href="https://www.behance.net/NayeefsarkerNafi">
-    <img src="https://img.shields.io/badge/Behance-Portfolio-0057ff?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://dribbble.com/NayeefsarkerNafi">
-    <img src="https://img.shields.io/badge/Dribbble-Designs-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
-  </a>
-</p>
-
-> Explore my projects to see how I combine front-end development skills with a deep focus on user perspective and design principles.
-
 
 ## 📬 Let's Connect
 
