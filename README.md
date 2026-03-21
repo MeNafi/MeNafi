@@ -1,4 +1,3 @@
-
 <!-- This is my GIF -->
 
 <p align="center">
