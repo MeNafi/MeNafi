@@ -157,7 +157,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MeNafi&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
-
 <!-- GitHub Badges part -->
 
 ## 🎖️ GitHub Badges
