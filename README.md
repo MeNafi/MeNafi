@@ -148,6 +148,9 @@
 
 <h3 align="left-center">🔥 GitHub Streak</h3>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MeNafi?cardType=octocat&theme=midnight-purple&fontFamily=Chivo&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=MeNafi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MeNafi&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNafi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
