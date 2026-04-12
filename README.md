@@ -188,7 +188,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MeNafi&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 
-## Join
+## 🌟 Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeNafi&theme=tokyonight" />
 
