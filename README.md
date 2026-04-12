@@ -154,7 +154,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MeNafi?cardType=octocat&theme=midnight-purple&fontFamily=Chivo&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeNafi&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeNafi&theme=midnight_purple"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=MeNafi&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MeNafi&theme=midnight-purple&hide_border=false)<br/>
