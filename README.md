@@ -190,7 +190,8 @@
 
 ## 🌟 Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeNafi&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeNafi&theme=midnight_purple" />
+
 
 
 <!-- Contribution Graph part -->
