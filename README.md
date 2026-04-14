@@ -5,7 +5,6 @@
 </p>
 
 
-
 <!-- Profile View part -->
 
 <p align="center">
